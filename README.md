@@ -1,3 +1,0 @@
-# React Exam
-
-~ React Study ~
